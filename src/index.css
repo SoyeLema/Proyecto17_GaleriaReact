@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+* {
+  margin: 0;
+  color: #ccc;
+  /* Requerimiento #6 del desafío: SE CAMBIA EL COLOR DE LAS FUENTES A #CCC */
+  background-color: darkslategrey;
+}
